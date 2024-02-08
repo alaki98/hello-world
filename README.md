@@ -7,5 +7,5 @@ This repository is built step by step in the tutorial.
 
 It now includes steps for Github.
 
-# add a new section
+# Add a new section
 a new section is added here.
